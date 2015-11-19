@@ -3,7 +3,7 @@ This bucket hosts code to compress a reshift PDF. We also provide code to test t
 
 === Depdenencies ===
 
-numpy 1.10.0
+randomForest package
 
 === to do ==
 
