@@ -1,6 +1,5 @@
 ===About===
-This bucket hosts code to compress a reshift PDF. We also provide code to test the performance of the compression.
-
+This bucket hosts code to estimate redshift distributions. I'm still in the process of migrating all my code to this bucket. If you require code please just email me and hopefully we can make it work.
 === Depdenencies ===
 
 randomForest package
